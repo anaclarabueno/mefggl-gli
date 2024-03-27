@@ -1,0 +1,6 @@
+modelName : global 
+instanceName : Part-1-1 
+stepName : LoadingStep 
+jobName : global
+IGLnodesSetName : InterfaceNodes
+nCPUs : 1
